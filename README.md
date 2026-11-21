@@ -1,6 +1,6 @@
-# SLL生图工作台 · GitHub Pages 静态包
+# SLL工作台 · GitHub Pages 静态包
 
-本目录是纯静态构建产物（83 个文件的原始镜像 + `.nojekyll` + 本说明），无需 npm install、无需构建、无需 GitHub Actions。
+本目录是纯静态构建产物（85 个文件的原始镜像 + `.nojekyll` + 本说明），无需 npm install、无需构建、无需 GitHub Actions。
 
 ## 部署步骤
 
