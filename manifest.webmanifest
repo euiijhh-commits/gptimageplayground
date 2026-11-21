@@ -1,7 +1,7 @@
 {
-  "name": "大王的生图工作台",
-  "short_name": "大王生图",
-  "description": "大王的生图工作台 - 图像生成与编辑",
+  "name": "SLL的生图工作台",
+  "short_name": "SLL生图",
+  "description": "SLL的生图工作台 - 图像生成与编辑",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
