@@ -1,4 +1,4 @@
-# 大王的生图工作台 · GitHub Pages 静态包
+# SLL生图工作台 · GitHub Pages 静态包
 
 本目录是纯静态构建产物（83 个文件的原始镜像 + `.nojekyll` + 本说明），无需 npm install、无需构建、无需 GitHub Actions。
 
@@ -22,4 +22,3 @@
 ## 注意
 
 - GitHub Pages 为 HTTPS 站点，浏览器会拦截对本地/内网 HTTP API 的请求；若需调用 HTTP 接口，请使用支持该场景的部署方式。
-- `github.io` 在国内的访问稳定性通常不如当前 `app.workbuddy.host` 域名。
